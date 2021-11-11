@@ -1,15 +1,3 @@
----
-title: "Comparison of Sentiment Dictionaries for the Finnish Language"
-author: "Ali Unlu"
-date: "11/11/2021"
-output: 
-  html_document: 
-    keep_md: yes
----
-
-
-
-
 # Aim
 
 Sentiment analysis is one of the initial step for text analysis, particularly if you are looking for the emotions. While it easier to do it English, it quite difficult to get the same results for other languages. Among others, the structure of the language is one of the biggest barriers. To facilitate this process, several dictionaries are developed by experts and adopted to other languages. 
