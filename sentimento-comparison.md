@@ -11,6 +11,7 @@ Here I will only illustrate how positive and negative sentiments vary across dic
 
 ```r
 # libraries 
+# Three libraries are enough
 library <- c("tidyverse", "lubridate","quanteda")
 sapply(library, require, character.only = TRUE)
 ```
